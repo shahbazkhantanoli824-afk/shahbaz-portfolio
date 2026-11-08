@@ -2,28 +2,32 @@ Shahbaz Khan Tanoli - Personal Portfolio
 
 Welcome to my personal portfolio!
 
-I am Shahbaz Khan Tanoli, an Artificial Intelligence student interested in AI, Machine Learning, Data Science, Web Development, and Programming.
-
 About Me
 
-I am passionate about learning new technologies and developing practical projects.
+Hi, I'm Shahbaz Khan Tanoli, a BS Data Science student at PAF-IAST.
 
-Skills
+I have completed SEO training and have an interest in Data Science, Data Analytics, Artificial Intelligence, and Technology.
 
-- HTML
-- CSS
-- JavaScript
+My Skills
+
 - Python
-- Artificial Intelligence
-- Machine Learning
+- C++
+- Java
+- SEO (Search Engine Optimization)
 - Data Science
+- Data Analytics
 
-Projects
+Education
 
-This repository contains my personal portfolio website and projects.
+BS Data Science – PAF-IAST
 
-Contact
+Interests
 
-Feel free to connect with me on LinkedIn and GitHub.
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Programming
+- Search Engine Optimization (SEO)
 
+  
 Thank you for visiting my portfolio!
